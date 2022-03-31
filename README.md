@@ -17,3 +17,6 @@ java BigTwo
 ```
 4. Repeat step 3 until all 4 players are loaded
 6. Play according to Big Two Card rules https://www.pagat.com/climbing/bigtwo.html.
+
+## Game Screenshot
+![Game_Screeshot](https://user-images.githubusercontent.com/78186364/161085089-107282a3-ccda-41db-ad13-f7718d9ad5d2.png)
